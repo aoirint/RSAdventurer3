@@ -1,0 +1,3 @@
+[submodule "flashforge_finder_api"]
+	path = flashforge_finder_api
+	url = https://github.com/aoirint/flashforge-finder-api.git
