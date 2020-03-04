@@ -1,0 +1,4 @@
+
+pytz
+Pillow
+requests
